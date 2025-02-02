@@ -4,7 +4,7 @@
 
 ## 🚀 Installation and Launch
 
-### 1. Installing `PNPM`
+### 1. Installing `PNPM` 📦
 
 Before starting development, install `PNPM`:
 
@@ -12,7 +12,7 @@ Before starting development, install `PNPM`:
 npm install -g pnpm
 ```
 
-### 2. Installing Dependencies
+### 2. Installing Dependencies ⚙️
 
 With `PNPM`:
 
@@ -26,7 +26,7 @@ Alternatively, with `NPM`:
 npm install
 ```
 
-### 3. Running in Development Mode
+### 3. Running in Development Mode 🖥️
 
 With `PNPM`:
 
@@ -40,7 +40,7 @@ Alternatively, with `NPM`:
 npm run start
 ```
 
-### 4. Building the Project
+### 4. Building the Project 🔨
 
 #### For Development:
 
@@ -70,7 +70,7 @@ Alternatively, with `NPM`:
 npm run build:prod
 ```
 
-### 5. Cleaning the Project
+### 5. Cleaning the Project 🧹
 
 Removes `node_modules`, `dist`, and lock files:
 
