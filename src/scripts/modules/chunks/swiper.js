@@ -14,7 +14,7 @@ defaultSlidersArr.forEach((slider, idx) => {
     slidesPerView: 1,
 
     pagination: {
-      el: paginationArr[index],
+      el: paginationArr[idx],
       clickable: true,
     },
 
